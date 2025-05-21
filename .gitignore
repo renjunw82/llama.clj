@@ -10,3 +10,4 @@ tmp/
 *.tmp
 .cache/
 coverage/
+.pytest_cache/
