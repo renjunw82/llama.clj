@@ -38,3 +38,4 @@ Run LLMs locally. A clojure wrapper for llama.cpp.
 # guard against empty input
 # clarify the control flow
 # clarify the control flow
+# keep defaults in sync with the manifest
